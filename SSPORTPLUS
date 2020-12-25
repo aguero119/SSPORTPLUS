@@ -1,0 +1,6 @@
+payload:  
+  # > SSPORTPLUS
+  # - User-Agent,Argo*
+  - DOMAIN-SUFFIX,ssportplus.com,SSPORTPLUS
+  - DOMAIN-KEYWORD,ssportplus,SSPORTPLUS
+  - DOMAIN-KEYWORD,videobulut,SSPORTPLUS
